@@ -1,0 +1,21 @@
+{
+  "schema": {
+    "id": "integer",
+    "qty": "integer"
+  },
+  "key": "id",
+  "rows": [
+    {
+      "id": 1,
+      "qty": 5
+    },
+    {
+      "id": 1,
+      "qty": true
+    },
+    {
+      "id": 3,
+      "new_qty": 2
+    }
+  ]
+}
